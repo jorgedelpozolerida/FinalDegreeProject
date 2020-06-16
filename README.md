@@ -27,10 +27,10 @@ Psychometric curve-derived bias:
 (!compared_average_bias_max_N_8.png)
 
 GLM results compared:
-(!compared_GLM_averages_max_N_8_num_tr_back_1.png)
+![alt_tag](compared_GLM_averages_max_N_8_num_tr_back_1.png)
 
 Rebound curve for N=8:
-(!https://github.com/jorgedelpozolerida/FinalDegreeProject/blob/master/images/case14.png)
+!(https://github.com/jorgedelpozolerida/FinalDegreeProject/blob/master/images/case14.png)
 
 Transition  kernels or T weights:
 (!compared_GLM_kernel_averages_max_N_8_num_tr_back_1.png)
