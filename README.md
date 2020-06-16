@@ -24,13 +24,13 @@ The results
 Overall these findings seem to suggest that RNNs develop a transition bias through train-ing that influences their choices based on the current status of the environment. Networks realise in which transition block they are, either for the trial-history or nch-block.  More interestingly, an increasing reset in bias after an error as N increased has been observed in all approaches to measure the bias.  After networks make a mistake, the expectation about next choice seems to vanish.  A reset-and-rebound dynamics have also been observed.  And finally, the Generalized Linear Model analysis enabled us to disentangle the effect of each type of current and past transitions on next choice.  Both shape and range of values obtained for the different transition regressors are very similar to those observed experimentally in Hermoso-Mendizabal et al. (2020).  All in all, results seem to provide robust evidence in favour of proposed hypothesis. When the complexity of the environment is increased, reset is the preferred strategy after an error by networks.
 
 Psychometric curve-derived bias:
-(images/compared_average_bias_max_N_8.png)
+(compared_average_bias_max_N_8.png)
 
 GLM results compared:
-(images/compared_GLM_averages_max_N_8_num_tr_back_1.png)
+(compared_GLM_averages_max_N_8_num_tr_back_1.png)
 
 Rebound curve for N=8:
-(https://github.com/jorgedelpozolerida/FinalDegreeProject/blob/master/images/case14.png)
+(case14.png)
 
 Transition  kernels or T weights:
-(images/compared_GLM_kernel_averages_max_N_8_num_tr_back_1.png)
+(compared_GLM_kernel_averages_max_N_8_num_tr_back_1.png)
