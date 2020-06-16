@@ -33,4 +33,4 @@ Rebound curve for N=8:
 !(https://github.com/jorgedelpozolerida/FinalDegreeProject/blob/master/images/case14.png)
 
 Transition  kernels or T weights:
-(!compared_GLM_kernel_averages_max_N_8_num_tr_back_1.png)
+!(compared_GLM_kernel_averages_max_N_8_num_tr_back_1.png)
